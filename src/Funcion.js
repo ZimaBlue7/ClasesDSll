@@ -1,5 +1,3 @@
-
-export const funcionPrueba = (a,b) => {
-    return a+b;
-}
-
+export const funcionPrueba = (a, b) => {
+  return a + b;
+};
