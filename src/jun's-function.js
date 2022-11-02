@@ -1,3 +1,3 @@
-export const welcomeToTheCapital = () => {
-    return "Bienvenido a Washington =)";
+export const welcomeToTheCapital = (x,y,z) => {
+    return x+y+z;
 }
