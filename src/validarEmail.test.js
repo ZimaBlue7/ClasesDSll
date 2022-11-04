@@ -1,5 +1,5 @@
 
-const validarEmail = requiere('./validarEmail')
+const validarEmail = require('./validarEmail')
 
 
 test('email carlos.bermudez@correo.edu -> true', () => {
