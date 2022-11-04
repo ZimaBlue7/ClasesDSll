@@ -7,4 +7,4 @@ class validarEmail {
     }
 }
 
-mudule.exports = new validarEmail();
+module.exports = new validarEmail();
